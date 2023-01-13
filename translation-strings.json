@@ -1,0 +1,77 @@
+{
+	"archive-post-all": {
+		"message": "All"
+	},
+	"archive-post-browse-category": {
+		"message": "Browse a category"
+	},
+	"archive-post-tags": {
+		"message": "Tags"
+	},
+	"post-related-news": {
+		"message": "Related news"
+	},
+	"post-see-all": {
+		"message": "See all"
+	},
+	"pagination-previous": {
+		"message": "Previous"
+	},
+	"pagination-next": {
+		"message": "Next"
+	},
+	"pagination-aria-label": {
+		"message": "Pagination navigation"
+	},
+	"pagination-goto-aria-label": {
+		"message": "Go to page"
+	},
+	"card-news-read": {
+		"message": "Read"
+	},
+	"input-error-label": {
+		"message": "Error"
+	},
+	"input-file-label-add": {
+		"message": "Add a file"
+	},
+	"input-file-label-invalid-multi": {
+		"message": "Add other files"
+	},
+	"input-file-label-max-files": {
+		"message": "Maximum reached"
+	},
+	"input-file-label-invalid": {
+		"message": "Add another file"
+	},
+	"input-file-label-remove": {
+		"message": "Remove"
+	},
+	"input-file-max-files": {
+		"message": "Maximum %s files."
+	},
+	"input-file-max-one-file": {
+		"message": "1 file only."
+	},
+	"input-file-multi-max-filesize": {
+		"message": "Limited to %d MB per file."
+	},
+	"input-file-max-filesize": {
+		"message": "Limited to %d MB."
+	},
+	"input-file-accepts": {
+		"message": "Allowed types: %s."
+	},
+	"input-file-file-infos": {
+		"message": "%(size)s – %(extension)s file – %(name)s"
+	},
+	"modal-close": {
+		"message": "Close"
+	},
+	"slider-navigation-prev-label": {
+		"message": "Previous slide"
+	},
+	"slider-navigation-next-label": {
+		"message": "Next slide"
+	}
+}
