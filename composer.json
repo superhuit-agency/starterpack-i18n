@@ -1,17 +1,25 @@
 {
-    "name": "supt/starterpack-i18n",
+    "name": "superhuit/starterpack-i18n",
     "description": "Starterpack's Internationalization (i18n)",
-    "version": "1.0.0",
-    "minimum-stability": "dev",
     "type": "wordpress-plugin",
-    "license": "MIT",
+    "keywords": [
+        "wordpress",
+        "internationalisation",
+        "polylang"
+    ],
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/superhuit-agency/starterpack-i18n",
     "authors": [
         {
             "name": "superhuit",
             "email": "tech@superhuit.ch",
-            "homepage": "https://www.superhuit.ch/en"
+            "homepage": "https://superhuit.ch",
+            "role": "Developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/superhuit-agency/starterpack-i18n/issues"
+    },
     "suggest": {
         "polylang/polylang": "Required to provide multilangual data to this plugin",
         "wp-graphql/wp-graphql": "Required to return data via GraphQl"
