@@ -3,7 +3,7 @@
  * Plugin Name:       Starterpack i18n
  * Plugin URI:        https://github.com/superhuit-agency/starterpack-i18n
  * Description:       Starterpack's Internationalization (i18n).
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.8
  * Requires PHP:      7.4
  * Author:            superhuit <tech@superhuit.ch>
@@ -28,7 +28,7 @@
 
 defined( 'ABSPATH' ) or die( 'Cheatin&#8217; uh?' );
 
-define( 'SPCKI18N_PLUGIN_VERSION', '1.0.0' );
+define( 'SPCKI18N_PLUGIN_VERSION', '1.0.1' );
 define( 'SPCKI18N_PATH', __DIR__ );
 define( 'SPCKI18N_URI', plugin_dir_url(__FILE__) );
 
